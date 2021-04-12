@@ -1,0 +1,1 @@
+# Q: How to make an intelligent system that learns to manipulate symbols?
