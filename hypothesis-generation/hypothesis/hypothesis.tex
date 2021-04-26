@@ -39,10 +39,41 @@ The meaning of symbols is established by convention \cite{Santoro21,Taniguchi18,
 \subsection{transformers}
 Transformer learns syntactic information \cite{Reif19,Hewitt19,Goldberg19,Tenney19}.
 
+\subsection{comparative study}
+Watson et al. claims that ``\textit{nonadjacent dependency processing, a crucial cognitive facilitator 
+of language, is an ancestral trait that evolved at least ~40 million years before language itself}'' \cite{Watson20}. 
+Wilson et al. explains that sufficient cues play crucial role for human nonadjacent dependency learning \cite{Wilson20}.
+Okanoya and Merker propose the hypothesis that human language is established through string-context 
+mutual segmentation: ``\textit{song strings and behavioral contexts are mutually segmented
+during social interactions}'' \cite{Okanoya07}. 
+
+\section{Discussion}
+\subsection{transformers}
+If transformers really capture syntax, \textbf{how it develops the syntactic representation during the pre-training? }
+Previous studies seem to find that pre-trained transformer have syntactic representation but how to do that remains 
+to be answered. If we can single out the cause of the syntax emergence, we may be able to model a guiding principle 
+for an intelligent agent to learn syntax.
+
+\subsection{syntax}
+It might be plausible that infants first identify phrases in sentences. To identify phrases, it might be necessary 
+that the phrase is used in multiple sentences. By observing the subset of sentences in multiple sentences repeatedly, 
+infants could identify which subset is the the phrase. However, a phrase less likely to appear many times in multiple contexts. 
+Thus, we could hypothesize that infants first understand too common and too often appearing phrase. Then, they 
+understand that theres is the concept ``phrase" in their society. Finally, they could start to generalize their knowledge 
+and to do try and error to manipulate phrase order. In sum,\textbf{ we hypothesize that artificial intelligence should 
+follow the following path for language acquisition: phrase identification - phrase order arrangement - phrase manipulation. }
+If this is the case, we should create an environment where identifying key phrase will give reword to the agent. 
+
+\subsection{keyword detection}
+Dual-coding memory may be a key because visual information is pseudo label there \cite{Hill21}.
+Even if no instructor exists, the agent can learns the concept him/herself.　
+
 
 \section{Note}
 % As Shannon pointed out, this kind of redundancy allows recovery of meaning 
 % xvxn whxn thx sxgnxl xs nxxsy <-- Masked Language Model? \cite{Shannon51}
+% Syntax representation development during pre-training is left for future study.
+% should memory be multi-modal?
 
 \bibliography{ref}
 \bibliographystyle{plain}
