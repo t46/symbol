@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  26 APR 2021 01:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  2 JUN 2021 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -46,90 +46,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
-
-LaTeX Warning: Citation `Chomsky02' on page 1 undefined on input line 17.
-
-
-LaTeX Warning: Citation `Ibbotson13' on page 1 undefined on input line 21.
-
-
-LaTeX Warning: Citation `Bybee10' on page 1 undefined on input line 23.
-
-
-LaTeX Warning: Citation `Ibbotson13' on page 1 undefined on input line 23.
-
-
-LaTeX Warning: Citation `Ibbotson13' on page 1 undefined on input line 33.
-
-
-LaTeX Warning: Citation `Santoro21' on page 1 undefined on input line 36.
-
-
-LaTeX Warning: Citation `Taniguchi18' on page 1 undefined on input line 36.
-
-
-LaTeX Warning: Citation `Mcclelland20' on page 1 undefined on input line 36.
-
-
-LaTeX Warning: Citation `Reif19' on page 1 undefined on input line 40.
-
-
-LaTeX Warning: Citation `Hewitt19' on page 1 undefined on input line 40.
-
-
-LaTeX Warning: Citation `Goldberg19' on page 1 undefined on input line 40.
-
-
-LaTeX Warning: Citation `Tenney19' on page 1 undefined on input line 40.
-
-
-LaTeX Warning: Citation `Watson20' on page 1 undefined on input line 44.
-
-
-LaTeX Warning: Citation `Wilson20' on page 1 undefined on input line 45.
-
-
-LaTeX Warning: Citation `Okanoya07' on page 1 undefined on input line 48.
-
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Citation `Hill21' on page 2 undefined on input line 68.
-
-
-! Package inputenc Error: Unicode character 　 (U+3000)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.69 ...ent can learns the concept him/herself.　
-                                                  
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[2]
-No file hypothesis.bbl.
-[3] (latex_out/hypothesis.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (latex_out/hypothesis.bbl [3]) [4] (latex_out/hypothesis.aux) ) 
 Here is how much of TeX's memory you used:
- 399 strings out of 478994
- 7381 string characters out of 5858185
+ 421 strings out of 478994
+ 7629 string characters out of 5858185
  295950 words of memory out of 5000000
- 17959 multiletter control sequences out of 15000+600000
+ 17979 multiletter control sequences out of 15000+600000
  406507 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,50p,258b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,50p,258b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on latex_out/hypothesis.pdf (3 pages, 59609 bytes).
+Output written on latex_out/hypothesis.pdf (4 pages, 73031 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
