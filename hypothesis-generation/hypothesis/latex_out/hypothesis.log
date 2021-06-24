@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  16 JUN 2021 13:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  24 JUN 2021 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -179,21 +179,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] (latex_out/hypothesis.bbl [9] [10] [11]) [12] (latex_out/hypothesis.aux)
 Package rerunfilecheck Info: File `hypothesis.out' has not changed.
-(rerunfilecheck)             Checksum: FDB8F0D41DF248585ECB998923FF8C42;2641.
+(rerunfilecheck)             Checksum: AF1EA0813D317335E907F43856681115;2735.
  ) 
 Here is how much of TeX's memory you used:
- 7062 strings out of 478994
- 105926 string characters out of 5858185
+ 7064 strings out of 478994
+ 105946 string characters out of 5858185
  402584 words of memory out of 5000000
- 24446 multiletter control sequences out of 15000+600000
+ 24447 multiletter control sequences out of 15000+600000
  406844 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,6n,74p,438b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on latex_out/hypothesis.pdf (12 pages, 107208 bytes).
+Output written on latex_out/hypothesis.pdf (12 pages, 107394 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
